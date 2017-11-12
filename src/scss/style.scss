@@ -1,0 +1,57 @@
+/* ------------------------------------------------------------------
+ [Table of contents]
+
+ 1. Base Styling
+ 2. Fonts
+ 3. Animations
+ 4. Tables
+ 5. Forms
+ 6. Buttons
+
+ 7. UI Components
+ 		7.1. Header
+ 		7.2. Footer
+ 		7.3. Sections
+ 		7.4. Components
+
+ ------------------------------------------------------------------ */
+
+
+
+
+// ----------------- 1. Base Styling -----------------
+// Custom Variables & Mixins
+@import 'core/mixins/mixins';
+@import 'core/variables';
+
+// ----------------- 2. Fonts -----------------
+@import 'core/fonts';
+
+// ----------------- 3. Animations -----------------
+@import 'core/animations';
+
+// ----------------- 4. Tables -----------------
+@import 'core/tables';
+
+// ----------------- 5. Forms -----------------
+@import 'core/forms';
+
+// ----------------- 6. Buttons -----------------
+@import 'core/buttons';
+
+
+// Import UI Components Styling
+
+// ----------------- 7. UI Components -----------------
+
+// ----------------- 7.1. Header -----------------
+@import 'ui/header';
+
+// ----------------- 7.2. Footer -----------------
+@import 'ui/footer';
+
+// ----------------- 7.3. Sections -----------------
+@import 'ui/sections';
+
+// ----------------- 7.4. Components -----------------
+@import 'ui/components';
