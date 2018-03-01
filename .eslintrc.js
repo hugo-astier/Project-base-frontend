@@ -5,6 +5,8 @@ module.exports = {
    * See https://standardjs.com
    */
   'extends': 'standard',
+  
+  
 
   /**
    * Ignore global variables.
